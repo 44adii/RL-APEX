@@ -1,0 +1,10 @@
+gymnasium==1.2.3
+stable-baselines3==2.8.0
+torch==2.9.0
+yfinance
+pandas
+numpy
+plotly
+streamlit
+matplotlib
+pyyaml

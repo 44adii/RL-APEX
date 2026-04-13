@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Logs
+models/
+logs/
+trained_models/
+outputs/*.png
+outputs/*.json
+
+# Data
+data/
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
